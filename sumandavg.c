@@ -1,3 +1,4 @@
+// Three numbers sum and avg//
 #include<stdio.h>
 int main()
 {
