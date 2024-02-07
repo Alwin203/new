@@ -1,3 +1,4 @@
+//square//
 #include<stdio.h>
 int main()
 {
